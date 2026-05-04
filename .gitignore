@@ -1,0 +1,12 @@
+﻿build/
+*.exe
+*.dll
+*.a
+*.lib
+*.pdb
+.idea/
+.vs/
+.vscode/
+CMakeUserPresets.json
+*.log
+Thumbs.db
